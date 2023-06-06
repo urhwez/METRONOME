@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="chords">Аккорды</string>
+    <string name="mtr">Метроном</string>
+</resources>
